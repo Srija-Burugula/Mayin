@@ -10,6 +10,8 @@ Mayin,The Virtual Zoo Application is designed to offer an immersive and interact
 For using the application, install the apk provided in the code section in your PC. 
 
 Demo: https://drive.google.com/file/d/13DI0XzsZ2gbPm5dPH2QXiTP7dGACF4vo/view?usp=sharing
+
+Presentation: https://drive.google.com/file/d/1ctvHGiEVz_TZ5W-JSX1qP65bvA_Eefwh/view?usp=sharing
 # Preview
 ![image](https://github.com/user-attachments/assets/2b504a31-505e-4cbc-9b32-25bd018f2749)
 
